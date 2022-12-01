@@ -1,0 +1,20 @@
+{
+    "project": {
+        "name": "HKDF",
+        "editorName": "Nartex",
+        "ownerName": "Nartex"
+    },
+    "excludedPaths": [
+        "Carthage",
+        "Pods",
+        "fastlane",
+        "Generated",
+        "SwaggerClient",
+        "SwaggerClients",
+        "vendor",
+        ".build",
+        ".swiftpm",
+        "stacks",
+        ".git"
+    ]
+}
